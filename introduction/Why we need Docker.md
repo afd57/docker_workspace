@@ -103,7 +103,7 @@ When customer see the bill, he said that something is wrong.
 
 When you use, containerized app.
 
-![image-20200503195601018](./img/Ekran Resmi 2020-05-03 19.54.53.png)
+![image-20200503195601018](./img/container.png)
 
 
 
@@ -155,7 +155,7 @@ docker run hello-world
 
 
 
-![Untitled Diagram](./img/Untitled Diagram.png)
+![Untitled Diagram](./img/docker_run.png)
 
 
 
