@@ -14,9 +14,11 @@ It happens because of different computing environments between test & production
 
 
 
-## Docker concepts
+## Docker concepts 
 
-Docker is a platform for developers and sysadmins*(A **system administrator**, or **sysadmin**, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems)* to **build, run, and share** applications with containers. The use of containers to deploy applications is called **containerization**. Containers are not new, but their use for easily deploying applications is.
+[Docker](https://github.com/docker/docker) is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and deploy it as one package. 
+
+The use of containers to deploy applications is called **containerization**. Containers are not new, but their use for easily deploying applications is.
 
 Containerization is increasingly popular because containers are:
 
@@ -182,3 +184,5 @@ https://acadgild.com/blog/docker-for-beginner-what-is-architecture-install-comma
 https://docs.docker.com/get-started/
 
 https://gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/
+
+https://opensource.com/resources/what-docker
