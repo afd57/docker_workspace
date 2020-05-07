@@ -110,6 +110,32 @@ $ docker ps -a | grep test
 275c44472aeb        debian:7            "/bin/bash"         26 secon
 ```
 
+## Docker Exec
+
+Run a command in a running container
+
+```sh
+docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
+```
+
+
+
+By default `docker exec` command runs in the same working directory set when container was created.
+
+```sh
+$ docker exec -it ubuntu_bash pwd
+/
+```
+
+You can select working directory for the command to execute into
+
+```sh
+$ docker exec -it -w /root ubuntu_bash pwd
+/root
+```
+
+
+
 ## Docker Logs[🔗](https://docs.docker.com/engine/reference/commandline/attach/)
 
 Fetch the logs of a container
