@@ -222,6 +222,28 @@ $ docker cp 72ca2488b353:/foo.txt foo.txt
 
 
 
+### Commonly Used Docker Command List
+
+- docker images | grep
+
+- docker ps / docker ps -a
+
+- docker exec
+
+- docker run / stop 
+
+- docker log
+
+- docker save [image] > [tar_file]
+
+- docker load [tar_file]
+
+- docker event [container] # real time event
+
+- docker kill
+
+
+
 https://docs.docker.com/storage/bind-mounts/
 
 https://docs.docker.com/engine/reference/commandline/attach/
