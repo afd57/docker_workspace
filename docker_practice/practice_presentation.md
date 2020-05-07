@@ -1,3 +1,9 @@
+# Dockerfile Best Practices
+
+
+
+
+
 # Docker Practice
 
 ## Docker Run Options
@@ -250,4 +256,6 @@ https://docs.docker.com/engine/reference/commandline/attach/
 
 https://docs.docker.com/engine/reference/commandline/logs/
 
-https://www.shellhacks.com/docker-cp-command-copy-file-to-from-container/
+https://www.shellhacks.com/docker-cp-command-copy-file-to-from-container
+
+https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/

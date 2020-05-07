@@ -54,3 +54,9 @@ $
 
 ```
 
+8. **Case:** I am storing log in a file inside of container. Is it a best practice ? Why ? What is your suggestion?
+
+```sh
+$
+```
+
